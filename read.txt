@@ -1,0 +1,6 @@
+1-)open command window
+
+2-)In the command window type: pyinstaller.exe loli.py . in summer.
+
+3-)Open the build folder open the loli in it there will be loli.exe run it or
+open the dist folder open the loli inside it will be loli.exe from there run it
